@@ -1,5 +1,11 @@
 # TradiumPro Crypto Exchange Backend, Frontend Sample Code
-TradiumPro is a Crypto Exchange platform with so many features like, Crypto Wallet, Depsoit From / Withdrawal To Multi Network, Spot Trade, Convert, Buy/Sell Crypto with Online Payment using Fiat, Fiat Wallet, Deposit, Withdrawal, Gift Card, P2P and so on... 
+TradiumPro Exchange is a Binance Like Crypto Exchange Software for Sale with Source Code. 
+It has so many features like, Crypto Wallet, Depsoit From / Withdrawal To Multi Network, 
+Spot Trade, Convert, Buy/Sell Crypto with Online Payment using Fiat, Fiat Wallet, Deposit, 
+Withdrawal, Gift Card, P2P and so on... 
+Contact for Purchase 
+Email: itechtheme01@gmail.com, skalmurad85@gmail.com 
+Whatsapp: +60 12-990 7162
 
 # Technologies Behind
  - Backend Nestjs using Typescript 
