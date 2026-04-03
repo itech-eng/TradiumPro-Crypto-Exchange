@@ -1,4 +1,4 @@
-# TradiumPro Crypto Exchange Backend, Frontend Sample Code
+# TradiumPro Crypto Exchange Sample Code
 TradiumPro Exchange is a Binance Like Crypto Exchange Software for Sale with Source Code. 
 It has so many features like, Crypto Wallet, Depsoit From / Withdrawal To Multi Network, 
 Spot Trade, Convert, Buy/Sell Crypto with Online Payment using Fiat, Fiat Wallet, Deposit, 
@@ -19,7 +19,7 @@ Whatsapp: +60 12-990 7162
 - Gift Card
 
 <b>Explore all the features here: </b>
-https://tradium.nftarttoken.xyz
+https://tradiumpro.com
 
 <!-- <b>Note: </b>  -->
 
